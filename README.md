@@ -3,9 +3,10 @@
 ## 1. Setup
 
 1. **Clone the repository**
-   ```bash
-   git clone <repo-url>
-   cd piepay-backend
+   git clone https://github.com/opd263/piepay.git
+   cd piepay
+   npm install
+   npm run dev
 2. **Install dependencies**
    npm install
 3. **Configure database**
